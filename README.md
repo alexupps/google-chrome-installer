@@ -11,4 +11,4 @@ Google Chrome Installer is a Script build in Bash language, i do it to simplify 
 - 5º Now Can execute the Script with this command -> 'sudo google-chrome-installer.sh'
 - 6º Thats all go to menu, on the Internet section you can find the Google Chrome installed the last version.
 
-# 2017 (C) alexupps @ http://alexupps.ml Twitter: https://twitter.com/alexupps
+2017 (C) alexupps @ http://alexupps.ml Twitter: https://twitter.com/alexupps
