@@ -33,7 +33,7 @@ echo -e "
 echo
 echo -e "Dependencias instaladas, preparando Descarga..."
 echo
-sudp wget -c https://dl.google.com/linux/direct/googl-chrome-stable_current_amd64.deb
+sudo wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 clear
 echo
 sudo aptitude update && sudo aptitude install libappindicator1
@@ -68,7 +68,7 @@ echo -e "
 echo
 echo -e "Instalacion Completa!"
 echo
-echo -e "Creado por alexupps @ http://alexupps.ml/
+echo -e "Creado por alexupps @ http://alexupps.ml/"
 echo
 sleep 5
 exit
